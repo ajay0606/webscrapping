@@ -1,4 +1,3 @@
 # webscrapping
-# upwork listed job on may 2020 for website http://www.agrios.it/fuer-obstbauern/pflanzenschutzmittel-seite/
-# project 
+# webscrapping for website http://www.agrios.it/fuer-obstbauern/pflanzenschutzmittel-seite/ 
 # used scrapy framework for web scrapping
